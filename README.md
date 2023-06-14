@@ -39,5 +39,5 @@
 <p>Bu proje, kullanıcıların görevleri eklemelerine, düzenlemelerine ve silmelerine olanak tanır. Kullanıcılar, görevlerin başlık, yazar, atanan kişi ve son teslim tarihi gibi bilgilerini girebilirler. Bu sayede, görevleri takip etmek ve yönetmek kolaylaşır. Kullanıcı dostu bir uygulamadır.</p>
 
 <h1>Canlı Önizleme</h1>
-<a href=""></a>
+<a href="https://toolkitcrudapp.netlify.app"></a>
 <img src="./src/images/screen.gif" alt="">
